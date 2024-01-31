@@ -1,0 +1,22 @@
+{
+  "name": "josn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikikukic99/Web-Tooling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikikukic99/Web-Tooling/issues"
+  },
+  "homepage": "https://github.com/vikikukic99/Web-Tooling#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
