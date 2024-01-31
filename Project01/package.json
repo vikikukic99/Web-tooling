@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vikikukic99/Web-Tooling#readme",
   "devDependencies": {
-    "eslint": "^8.56.0"
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.4"
   }
 }
